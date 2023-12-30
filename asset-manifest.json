@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/analytixuel/static/css/main.109948d1.css",
+    "main.js": "/analytixuel/static/js/main.976a01b1.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/analytixuel/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/analytixuel/index.html",
+    "main.109948d1.css.map": "/analytixuel/static/css/main.109948d1.css.map",
+    "main.976a01b1.js.map": "/analytixuel/static/js/main.976a01b1.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/analytixuel/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109948d1.css",
+    "static/js/main.976a01b1.js"
+  ]
+}
